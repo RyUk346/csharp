@@ -1,0 +1,20 @@
+E:\Dropbox\AIUB\18. Summer 2020-21\Object Oriented Programming - 2\Projects\WFAppDbSln\WFAppDbPro\bin\Debug\WFAppDbPro.exe.config
+E:\Dropbox\AIUB\18. Summer 2020-21\Object Oriented Programming - 2\Projects\WFAppDbSln\WFAppDbPro\bin\Debug\WFAppDbPro.exe
+E:\Dropbox\AIUB\18. Summer 2020-21\Object Oriented Programming - 2\Projects\WFAppDbSln\WFAppDbPro\bin\Debug\WFAppDbPro.pdb
+E:\Dropbox\AIUB\18. Summer 2020-21\Object Oriented Programming - 2\Projects\WFAppDbSln\WFAppDbPro\obj\Debug\WFAppDbPro.csprojResolveAssemblyReference.cache
+E:\Dropbox\AIUB\18. Summer 2020-21\Object Oriented Programming - 2\Projects\WFAppDbSln\WFAppDbPro\obj\Debug\WFAppDbPro.Dashboard.resources
+E:\Dropbox\AIUB\18. Summer 2020-21\Object Oriented Programming - 2\Projects\WFAppDbSln\WFAppDbPro\obj\Debug\WFAppDbPro.Properties.Resources.resources
+E:\Dropbox\AIUB\18. Summer 2020-21\Object Oriented Programming - 2\Projects\WFAppDbSln\WFAppDbPro\obj\Debug\WFAppDbPro.csproj.GenerateResource.Cache
+E:\Dropbox\AIUB\18. Summer 2020-21\Object Oriented Programming - 2\Projects\WFAppDbSln\WFAppDbPro\obj\Debug\WFAppDbPro.exe
+E:\Dropbox\AIUB\18. Summer 2020-21\Object Oriented Programming - 2\Projects\WFAppDbSln\WFAppDbPro\obj\Debug\WFAppDbPro.pdb
+F:\WFAppDbSln\WFAppDbSln\WFAppDbPro\bin\Debug\WFAppDbPro.exe.config
+F:\WFAppDbSln\WFAppDbSln\WFAppDbPro\bin\Debug\WFAppDbPro.exe
+F:\WFAppDbSln\WFAppDbSln\WFAppDbPro\bin\Debug\WFAppDbPro.pdb
+F:\WFAppDbSln\WFAppDbSln\WFAppDbPro\obj\Debug\WFAppDbPro.csproj.AssemblyReference.cache
+F:\WFAppDbSln\WFAppDbSln\WFAppDbPro\obj\Debug\WFAppDbPro.csproj.SuggestedBindingRedirects.cache
+F:\WFAppDbSln\WFAppDbSln\WFAppDbPro\obj\Debug\WFAppDbPro.Dashboard.resources
+F:\WFAppDbSln\WFAppDbSln\WFAppDbPro\obj\Debug\WFAppDbPro.Properties.Resources.resources
+F:\WFAppDbSln\WFAppDbSln\WFAppDbPro\obj\Debug\WFAppDbPro.csproj.GenerateResource.cache
+F:\WFAppDbSln\WFAppDbSln\WFAppDbPro\obj\Debug\WFAppDbPro.csproj.CoreCompileInputs.cache
+F:\WFAppDbSln\WFAppDbSln\WFAppDbPro\obj\Debug\WFAppDbPro.exe
+F:\WFAppDbSln\WFAppDbSln\WFAppDbPro\obj\Debug\WFAppDbPro.pdb
